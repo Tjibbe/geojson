@@ -1,8 +1,8 @@
 {
 	"type": "Feature",
 	"properties": {
-	  "stroke": "#f0f0f0",
-    "stroke-width": 2
+		"stroke": "#f0f0f0",
+		"stroke-width": 2
 		"scalerank": 1,
 		"featurecla": "Admin-0 country",
 		"labelrank": 6,
